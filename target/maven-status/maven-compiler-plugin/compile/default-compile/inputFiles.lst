@@ -1,0 +1,7 @@
+/home/dufaux/workspace/appenginetest/src/main/java/fil/iagl/appengine/Constants.java
+/home/dufaux/workspace/appenginetest/src/main/java/fil/iagl/appengine/exception/badrequest.java
+/home/dufaux/workspace/appenginetest/src/main/java/fil/iagl/appengine/form/ProfileForm.java
+/home/dufaux/workspace/appenginetest/src/main/java/fil/iagl/appengine/form/AnnonceForm.java
+/home/dufaux/workspace/appenginetest/src/main/java/fil/iagl/appengine/spi/AnnonceApi.java
+/home/dufaux/workspace/appenginetest/src/main/java/fil/iagl/appengine/domain/Profile.java
+/home/dufaux/workspace/appenginetest/src/main/java/fil/iagl/appengine/domain/Annonce.java
