@@ -1,7 +1,8 @@
-appengine-endpoints-helloendpoints-java-maven
+Google App Engine TP IAGL
 =============================================
 
-A "hello world" application for Google Cloud Endpoints in Java.
+
+lien github : https://docs.google.com/document/d/1uh0g4vWQijr-8IdgKeO2huZB-5NLoz995C32sB4hcHE/edit?usp=sharing
 
 ## Products
 - [App Engine][1]
